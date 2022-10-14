@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463982608574",
+    "project_id": "videocompress-52ca5",
+    "storage_bucket": "videocompress-52ca5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463982608574:android:818338ed367ad61e279eef",
+        "android_client_info": {
+          "package_name": "com.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463982608574-vtls7vdesvn9b6pbku9r1e5m96i2avhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkhpMirI-V9325-BPSPXLGVW8s7iQC3-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463982608574-vtls7vdesvn9b6pbku9r1e5m96i2avhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
